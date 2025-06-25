@@ -24,8 +24,8 @@ I'm a Computer Science graduate passionate about turning raw data into powerful 
 - 🔗 [Student Exam Performance Predictor](https://github.com/SaidurRahmanChowdhury/End-to-End-Project)  
   Classifies student outcomes using decision trees and data visualization techniques.
 
-- 🔗 [Olympics Analysis GitHub Repo](https://github.com/SaidurRahmanChowdhury/Olympics-Analysis)  
-  Source code for my Streamlit dashboard and data wrangling logic.
+- 🔗 [FASTag Fraud Detection](https://github.com/SaidurRahmanChowdhury/Fastag_Fraud_Detection)  
+  Identified toll fraud patterns using anomaly detection and supervised learning on FASTag transaction data.
 
 ---
 
